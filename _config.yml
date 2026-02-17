@@ -1,0 +1,8 @@
+title: "Regex Tester Pro — Free Open Source Chrome Extension"
+description: "Test and debug regular expressions right in your browser with real-time highlighting, match groups, and code export to 8 languages."
+theme: jekyll-theme-cayman
+url: "https://theluckystrike.github.io"
+baseurl: "/regex-tester-chrome-extension"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
