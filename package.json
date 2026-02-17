@@ -1,0 +1,24 @@
+{
+  "name": "regex-tester-chrome-extension",
+  "version": "1.0.0",
+  "description": "Open source Chrome extension for testing and debugging regular expressions. Real-time match highlighting, multi-flavor support, and code export.",
+  "keywords": [
+    "chrome-extension",
+    "regex",
+    "regex-tester",
+    "regular-expressions",
+    "developer-tools",
+    "manifest-v3",
+    "regex-debugger"
+  ],
+  "author": "Zovo <hello@zovo.one> (https://zovo.one)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theluckystrike/regex-tester-chrome-extension"
+  },
+  "homepage": "https://chromewebstore.google.com/detail/regex-tester-pro-by-zovo/laljckjnohfcbhmlehjkcppkdfibldad",
+  "bugs": {
+    "url": "https://github.com/theluckystrike/regex-tester-chrome-extension/issues"
+  }
+}
